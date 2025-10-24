@@ -1,8 +1,17 @@
 {
-  "mettalica/jude": ["metallica", "jude"],
-  "pink floyd (remaster)": ["pink floyd"],
-  "beatles live": ["the beatles"],
-  "Dame Janet Baker/Sir John Barbirolli": ["Dame Janet Baker", "Sir John Barbirolli"],
-  "Christoph Willibald von  Gluck": ["Christoph Willibald Gluck"],
-  "Louis Langree/Natalie Dessay/Véronique Gens": ["Louis Langree", "Natalie Dessay", "Véronique Gens"]
+    "Earth, Wind & Fire": "Earth, Wind & Fire",
+    "Daft Punk": "Daft Punk",
+    "Désiré Emile Inghelbrecht": "Désiré-Émile Inghelbrecht",
+    "David Gilmour": "David Gilmour",
+    "Gilmour, David": "David Gilmour",
+    "Dame Janet Baker/Sir John Barbirolli": "Dame Janet Baker, Sir John Barbirolli",
+    "Michael Jackson feat Paul McCartney": "Michael Jackson, Paul McCartney",
+    "Michael Jackson ft Siedah Garrett": "Michael Jackson, Siedah Garrett",
+    "Louis Langree/Natalie Dessay/Véronique Gens": ["Louis Langree", "Natalie Dessay", "Véronique Gens"],
+    "ACDC": "AC/DC",
+    "AC-DC": "AC/DC",
+    "Christoph Willibald von  Gluck": "Christoph Willibald Gluck",
+    "Crosby, Stills & Nash": "Crosby, Stills & Nash",
+    "Crosby & Nash": "Crosby & Nash",
+    "Crosby, Stills, Nash & Young": "Crosby, Stills, Nash & Young"
 }
