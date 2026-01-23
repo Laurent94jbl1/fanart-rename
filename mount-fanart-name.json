@@ -1,6 +1,6 @@
 {
-    "Earth, Wind & Fire": "Earth, Wind & Fire",
-    "Daft Punk": "Daft Punk",
+    "Earth, Wind & Fire": ["Earth, Wind & Fire"],
+    "Daft Punk": ["Daft Punk"],
     "Désiré Emile Inghelbrecht": "Désiré-Émile Inghelbrecht",
     "David Gilmour": "David Gilmour",
     "Gilmour, David": "David Gilmour",
@@ -29,6 +29,6 @@
     "Coro dell'Accademia Nazionale Di Santa Cecilia": "Orchestra dell'Accademia Nazionale Di Santa Cecilia",
     "Christoph Willibald von  Gluck": "Christoph Willibald Gluck",
     "Crosby, Stills & Nash": ["Crosby, Stills & Nash"],
-    "Crosby & Nash": "Crosby & Nash",
+    "Crosby & Nash": ["Crosby & Nash"],
     "Crosby, Stills, Nash & Young": ["Crosby, Stills, Nash & Young"]
 }
